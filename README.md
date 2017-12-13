@@ -12,3 +12,5 @@
 4. Mac기준으로 캡쳐한 화면으로 실제 화면은 약간 다를 수 있습니다.
 
 - 본 Repository는 프로젝트 완성 시점으로 제거 될 수 있습니다.
+
+5. 현재 앱의 메인 색으론 Indigo가 적용중이며 글꼴은 Roboto, sans-serif 입니다. 혹여 앱 색에 대한 변경을 원하시는 경우 http://www.material-ui.com/#/customization/colors 을 참조하시어 이야기해주세요.
